@@ -22,7 +22,7 @@ class StreamFlix {
                 category: "action",
                 poster: "The Dark Knight.webp",
                 description: "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
-                trailer: "",
+                trailer: "1.mp4",
                 cast: ["Christian Bale", "Heath Ledger", "Aaron Eckhart", "Michael Caine", "Maggie Gyllenhaal", "Gary Oldman"],
                 trending: false,
                 views: 1250000
@@ -37,7 +37,7 @@ class StreamFlix {
                 category: "action",
                 poster: "avengers.jpeg",
                 description: "After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
-                trailer: "",
+                trailer: "5.mp4",
                 cast: ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson", "Jeremy Renner", "Don Cheadle"],
                 trending: true,
                 views: 2000000
@@ -52,7 +52,7 @@ class StreamFlix {
                 category: "action",
                 poster: "pushpa.webp",
                 description: "Pushpa is a coolie who rises in the world of red sandalwood smuggling.",
-                trailer: "",
+                trailer: "2.mp4",
                 cast: ["Allu Arjun", "Rashmika Mandanna", "Fahadh Faasil", "Jagapathi Babu", "Prakash Raj"],
                 trending: true,
                 views: 980000
@@ -67,7 +67,7 @@ class StreamFlix {
                 category: "action",
                 poster: "interstellar.webp",
                 description: "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
-                trailer: "",
+                trailer: "5.mp4",
                 cast: ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
                 trending: false,
                 views: 1500000
@@ -82,7 +82,7 @@ class StreamFlix {
                 category: "Drama",
                 poster: "rrr.jpg",
                 description: "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.",
-                trailer: "",
+                trailer: "4.mp4",
                 cast: ["Bradley Cooper", "Ed Helms", "Zach Galifianakis"],
                 trending: true,
                 views: 750000
@@ -95,9 +95,9 @@ class StreamFlix {
                 rating: "⭐ 8.0/10",
                 genre: ["Action", "Drama"],
                 category: "action",
-                poster: "",
+                poster: "wp5121808.jpg",
                 description: "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence.",
-                trailer: "bahubali.mp4",
+                trailer: "3.mp4",
                 cast: ["Prabhas", "Rana Daggubati", "Anushka Shetty", "Tamannaah Bhatia"],
                 trending: false,
                 views: 800000
@@ -112,7 +112,7 @@ class StreamFlix {
                 category: "drama",
                 poster: "tom.webp",
                 description: "The presidencies of Kennedy and Johnson, the Vietnam War, and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
-                trailer: "",
+                trailer: "5.mp4",
                 cast: ["Tom Hanks", "Robin Wright", "Gary Sinise"],
                 trending: false,
                 views: 1200000
@@ -128,7 +128,7 @@ class StreamFlix {
                 category: "action",
                 poster: "Kalki.jpg",
                 description: "In a dystopian future, a group of rebels fight against a totalitarian regime.",
-                trailer: "",
+                trailer: "6.mp4",
                 cast: ["prabhas", "Deepika Padukone", "Amitabh Bachchan", "Disha Patani"],
                 trending: true,
                 views: 1000000
@@ -143,7 +143,7 @@ class StreamFlix {
                 category: "drama",
                 poster: "the.jpg",
                 description: "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-                trailer: "",
+                trailer: "5.mp4",
                 cast: ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
                 trending: false,
                 views: 1500000
@@ -158,7 +158,7 @@ class StreamFlix {
                 category: "action",
                 poster: "avatar.webp",
                 description: "Jake Sully and Neytiri have formed a family and are doing everything to stay together. However, they must leave their home and explore the regions of Pandora.",
-                trailer: "",
+                trailer: "5.mp4",
                 cast: ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
                 trending: true,
                 views: 2000000
@@ -174,7 +174,7 @@ class StreamFlix {
                 category: "action",
                 poster: "gost.jpeg",
                 description: "A motorcycle stuntman makes a deal with the devil to save his dying girlfriend.",
-                trailer: "",
+                trailer: "5.mp4",
                 cast: ["Nicolas Cage", "Eva Mendes", "Sam Elliott"],
                 trending: false,
                 views: 1800000
@@ -189,7 +189,7 @@ class StreamFlix {
                 category: "horror",
                 poster: "final.avif",
                 description: "A group of friends must confront their worst fears when they find themselves trapped in a haunted house.",
-                trailer: "",
+                trailer: "6.mp4",
                 cast: ["Devon Sawa", "Ali Larter", "Kerr Smith"],
                 trending: false,
                 views: 1700000
@@ -204,7 +204,7 @@ class StreamFlix {
                 category: "action",
                 poster: "load.jpeg",
                 description: "Gandalf and Aragorn lead the World of Men against Sauron and his army.",
-                trailer: "",
+                trailer: "3.mp4",
                 cast: ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
                 trending: false,
                 views: 2500000
@@ -219,7 +219,7 @@ class StreamFlix {
                 category: "horror",
                 poster: "smile.webp",
                 description: "A woman with a dark secret becomes the target of a malevolent entity after witnessing a traumatic event.",
-                trailer: "",
+                trailer: "4.mp4",
                 cast: ["Sosie Bacon", "Jessie T. Usher", "Kyle Gallner"],
                 trending: false,
                 views: 1400000
@@ -235,7 +235,7 @@ class StreamFlix {
                 category: "comedy",
                 poster: "dolittle.jpeg",
                 description: "A physician discovers that he can talk to animals and sets off on an adventure to find a legendary island.",
-                trailer: "",
+                trailer: "2.mp4",
                 cast: ["Jodie Foster", "Anthony Hopkins", "Lawrence A. Bonney"],
                 trending: false,
                 views: 1300000
@@ -250,7 +250,7 @@ class StreamFlix {
                 category: "animation",
                 poster: "lion.webp",
                 description: "Lion prince Simba flees his kingdom after the death of his father, Mufasa. But with the help of friends, he returns as an adult to reclaim his throne.",
-                trailer: "",
+                trailer: "8.mp4",
                 cast: ["Matthew Broderick", "James Earl Jones", "Jeremy Irons"],
                 trending: false,
                 views: 1600000
@@ -266,7 +266,7 @@ class StreamFlix {
                 category: "action",
                 poster: "hulk.webp",
                 description: "Bruce Banner, a genetics researcher with a tragic past, suffers an accident that causes him to transform into a raging green monster when he gets angry.",
-                trailer: "",
+                trailer: "5.mp4",
                 cast: ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
                 trending: false,
                 views: 1100000
@@ -281,7 +281,7 @@ class StreamFlix {
                 category: "animation",
                 poster: "tom and jerry.jpg",
                 description: "Tom and Jerry are back in a new animated/live-action hybrid film, where they wreak havoc in a fancy New York hotel.",
-                trailer: "",
+                trailer: "7.mp4",
                 cast: ["Christian Bale", "Tom Hardy", "Anne Hathaway"],
                 trending: true,
                 views: 300000
@@ -299,7 +299,7 @@ class StreamFlix {
                 category: "drama",
                 poster: "loki.jpg",
                 description: "The God of Mischief, Loki, steps out of his brother's shadow to embark on his own adventures.",
-                trailer: "",
+                trailer: "1.mp4",
                 cast: ["Tom Hiddleston", "Owen Wilson", "Gugu Mbatha-Raw", "Wunmi Mosaku", "Tara Strong"],
                 trending: true,
                 views: 2100000
@@ -314,7 +314,7 @@ class StreamFlix {
                 category: "action",
                 poster: "mirzapur.webp",
                 description: "A shocking incident in the small town of Mirzapur sets off a chain of events that leads to a power struggle between two families.",
-                trailer: "",
+                trailer: "2.mp4",
                 cast: ["Ali Fazal", "Vikrant Massey", "Shweta Tripathi", "Divyendu Sharma", "Pankaj Tripathi"],
                 trending: false,
                 views: 2000000
@@ -330,7 +330,7 @@ class StreamFlix {
                 category: "action",
                 poster: "mh.jpg",
                 description: "To carry out the biggest heist in history, a mysterious mastermind called 'The Professor' recruits a band of eight robbers who have a single characteristic: a criminal record.",
-                trailer: "",
+                trailer: "4.mp4",
                 cast: ["Álvaro Morte", "Úrsula Corberó", "Itziar Ituño", "Pedro Alonso", "Alba Flores"],
                 trending: true,
                 views: 1800000
@@ -345,7 +345,7 @@ class StreamFlix {
                 category: "thriller",
                 poster: "squid game.jpg",
                 description: "A deadly competition ensues as players risk their lives in children's games for a tempting prize.",
-                trailer: "",
+                trailer: "6.mp4",
                 cast: ["Lee Jung-jae", "Park Hae-soo", "Wi Ha-jun", "Jung Ho-yeon", "O Yeong-su"],
                 trending: true,
                 views: 24000000
@@ -360,7 +360,7 @@ class StreamFlix {
                 category: "fantasy",
                 poster: "gh.jpg",
                 description: "Nine noble families fight for control over the mythical land of Westeros, while an ancient enemy returns after being dormant for millennia.",
-                trailer: "",
+                trailer: "3.mp4",
                 cast: ["Emilia Clarke", "Kit Harington", "Peter Dinklage", "Lena Headey", "Nikolaj Coster-Waldau"],
                 trending: true,
                 views: 2300000
@@ -375,7 +375,7 @@ class StreamFlix {
                 category: "thriller",
                 poster: "bb.jpeg",
                 description: "Seasonal anthology series in which police investigations unearth the personal and professional secrets of those involved.",
-                trailer: "",
+                trailer: "7.mp4",
                 cast: ["Matthew McConaughey", "Woody Harrelson", "Mahershala Ali"],
                 trending: false,
                 views: 1800000
@@ -390,7 +390,7 @@ class StreamFlix {
                 category: "horror",
                 poster: "1992.jpeg",
                 description: "A young girl with supernatural abilities helps her friends uncover a series of mysteries in their small town.",
-                trailer: "",
+                trailer: "8.mp4",
                 cast: ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
                 trending: false,
                 views: 2500000
@@ -405,7 +405,7 @@ class StreamFlix {
                 category: "action",
                 poster: "games.jpg",
                 description: "A police officer in Mumbai uncovers a web of crime and corruption that leads to a powerful gangster.",
-                trailer: "",
+                trailer: "6.mp4",
                 cast: ["Saif Ali Khan", "Nawazuddin Siddiqui", "Radhika Apte"],
                 trending: false,
                 views: 2200000
@@ -420,7 +420,7 @@ class StreamFlix {
                 category: "action",
                 poster: "star.webp",
                 description: "A lone bounty hunter navigates the outer reaches of the galaxy, far from the authority of the New Republic.",
-                trailer: "",
+                trailer: "2.mp4",
                 cast: ["Pedro Pascal", "Gina Carano", "Carl Weathers"],
                 trending: false,
                 views: 2700000
@@ -435,7 +435,7 @@ class StreamFlix {
                 category: "action",
                 poster: "wit.jpeg",
                 description: "Geralt of Rivia, a monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
-                trailer: "",
+                trailer: "3.mp4",
                 cast: ["Henry Cavill", "Freya Allan", "Anya Chalotra"],
                 trending: false,
                 views: 2800000
